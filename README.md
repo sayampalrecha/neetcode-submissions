@@ -5,8 +5,8 @@ neetcode - https://neetcode.io/profile
 
 1. Python
 
-Every other language except for python is done to understand the syntax on problems 
-I do not really know them but find this as a good way to read and write them 
+    Every other language except for python is done to understand the syntax on problems 
+    I do not really know them but find this as a good way to read and write them 
 
 3. Rust
 4. C++
